@@ -1,0 +1,36 @@
+
+.banner {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 200px 20px 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
+  .banner h1 {
+    color: #fff;
+    padding: 10px 0 20px;
+  }
+  .actions {
+    padding: 20px 0;
+  }
+  
+  .description {
+    color: #fff;
+    width: 500px;
+    font-weight: 500;
+    padding: 20px 0;
+  }
+  
+  .actions button {
+    color: #fff;
+    background-color: #121111;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 10px;
+    padding: 0 10px;
+    cursor: pointer;
+  }
+  

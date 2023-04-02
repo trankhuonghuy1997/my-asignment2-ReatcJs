@@ -1,0 +1,27 @@
+1	Đăng ký và lấy Token của API	OK
+2	Tạo Nav Bar OK
+3	Lấy dữ liệu từ API	OK
+4	Hiển thị Banner	OK
+- Banner được lấy ngẫu nhiên từ các bộ phim fetchNetflixOriginals.	OK
+5	Hiển thị danh sách phim theo danh mục	OK
+- Lấy dữ liệu và truyền vào Component để hiển thị. OK
+- Hiển thị đầy đủ các danh mục phim theo yêu cầu. OK
+- Các phim thuộc danh mục Original sẽ được hiển thị dưới dạng Poster. Các danh mục còn lại sẽ đươc hiển thị theo dạng ảnh Backdrop OK
+- Mỗi danh sách có thể được kéo sang ngang và có Animation mỗi khi Hover vào ảnh.	OK
+6	Hiển thị thông tin cụ thể của phim	OK
+- Hoàn thiện các logic như theo yêu cầu của đề bài. OK
++ Khi đang xem thông tin của một bộ phim, nếu người dùng click vào ảnh một bộ phim khác thì bạn sẽ hiển thị thông tin của bộ phim đó. OK
++ Khi đang xem thông tin của một bộ phim và người dùng click lại vào ảnh của phim đó thì ẩn các thông tin đi. OK
++ Nếu bộ phim không có Trailer thì sẽ hiển thị ảnh Backdrop thay thế. OK
+7	Tạo giao diện Search	OK
+8	Xử lý Logic khi tìm kiếm phim	OK
+- Hiển thị các phim đúng theo như thiết kế.	OK
+Yêu cầu phi chức năng
+
+#	Criterion
+1	Clean Code và Comment	
+Yêu cầu nâng cao
+
+#	Criterion
+
+1	Hiển thị thông tin cụ thể của phim tìm được	OK

@@ -1,0 +1,42 @@
+.detail {
+    width: 1200px;  
+    margin: 0 auto; 
+    display: flex;
+    align-items: center;
+    gap: 20px  ;
+}
+.detail-left {
+    color: #fff;
+    width: 50%;
+}
+.title{
+    position: relative;
+    padding: 10px 0;
+}
+
+.title::after {
+    content: "";
+    width: 90%;
+    height: 2px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.detail-left h3 {
+    padding: 10px 0;
+}
+
+.detail-left p {
+    font-weight: 500;
+    text-align: justify;
+}
+.detail-right {
+    width: 50%;
+}
+
+.detail-right video,
+.detail-right img {
+    border-radius: 10px;
+}

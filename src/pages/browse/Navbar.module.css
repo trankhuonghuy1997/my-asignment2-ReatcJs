@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-items: baseline;
+  justify-content: space-between;
+  background-color: transparent;
+  padding: 20px;
+  width: 1200px;
+  margin: 0 auto;
+}
+.icon {
+  cursor: pointer;
+}
+  
+.navbar.scroll {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #000 !important;
+}
+  
+.navbar h1 {
+  color: red;
+  cursor: pointer;
+}
