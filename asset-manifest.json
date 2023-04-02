@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trankhuonghuy1997/ass2-react/static/css/main.7b23c558.chunk.css",
+    "main.js": "/trankhuonghuy1997/ass2-react/static/js/main.c135f0aa.chunk.js",
+    "main.js.map": "/trankhuonghuy1997/ass2-react/static/js/main.c135f0aa.chunk.js.map",
+    "runtime-main.js": "/trankhuonghuy1997/ass2-react/static/js/runtime-main.9a29a1ea.js",
+    "runtime-main.js.map": "/trankhuonghuy1997/ass2-react/static/js/runtime-main.9a29a1ea.js.map",
+    "static/js/2.60899f06.chunk.js": "/trankhuonghuy1997/ass2-react/static/js/2.60899f06.chunk.js",
+    "static/js/2.60899f06.chunk.js.map": "/trankhuonghuy1997/ass2-react/static/js/2.60899f06.chunk.js.map",
+    "index.html": "/trankhuonghuy1997/ass2-react/index.html",
+    "precache-manifest.7cf55c1b4f2b2032dfef04c08ab63634.js": "/trankhuonghuy1997/ass2-react/precache-manifest.7cf55c1b4f2b2032dfef04c08ab63634.js",
+    "service-worker.js": "/trankhuonghuy1997/ass2-react/service-worker.js",
+    "static/css/main.7b23c558.chunk.css.map": "/trankhuonghuy1997/ass2-react/static/css/main.7b23c558.chunk.css.map",
+    "static/js/2.60899f06.chunk.js.LICENSE.txt": "/trankhuonghuy1997/ass2-react/static/js/2.60899f06.chunk.js.LICENSE.txt",
+    "static/js/main.c135f0aa.chunk.js.LICENSE.txt": "/trankhuonghuy1997/ass2-react/static/js/main.c135f0aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a29a1ea.js",
+    "static/js/2.60899f06.chunk.js",
+    "static/css/main.7b23c558.chunk.css",
+    "static/js/main.c135f0aa.chunk.js"
+  ]
+}
